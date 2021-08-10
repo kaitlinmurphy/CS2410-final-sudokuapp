@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment;
 
 public class BestTimesFragment extends Fragment {
     public BestTimesFragment() {
-        super(R.layout.fragment_new_game);
+        super(R.layout.fragment_best_times);
     }
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
